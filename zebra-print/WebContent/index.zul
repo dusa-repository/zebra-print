@@ -1,0 +1,8 @@
+<zk>
+  <window apply="controlador.CImpresioZebra">
+    <textbox id="hai" value=""></textbox>
+    <button id="btnExport" label="Click">
+    </button>
+    
+  </window>
+</zk>
